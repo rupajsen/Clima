@@ -1,2 +1,2 @@
-# Clima
+# Climate App
 Weather App
